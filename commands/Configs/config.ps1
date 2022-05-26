@@ -41,6 +41,15 @@ $script = "commands\WebApp\WebApp_create.ps1"
 $script = "commands\ServiceBus\SB_create.ps1"
 .$script
 
+$script = "commands\StorageAccount\StorageAccount_create.ps1"
+.$script
+
+$script = "commands\StorageAccount\StorageAccount_keys.ps1"
+.$script
+
+$script = "commands\FunctionApp\FA_create.ps1"
+.$script
+
 
 
 
